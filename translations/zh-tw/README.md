@@ -27,7 +27,7 @@
 
 <!-- > This process is for beginners. It is not a linear sequence of steps that you should standardise as a best practice. Domain-Driven Design is an evolutionary design process which necessitates continuous iteration on all aspects of knowledge and design. -->
 
-![領域驅動設計 (DDD) 建模流程入門](resources/ddd-starter-modelling-process-colored.png)
+![領域驅動設計 (DDD) 建模流程入門](resources/ddd-starter-modelling-process-colored_zh-tw.jpg)
 
 <details>
     <summary>導覽：</summary>
